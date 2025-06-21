@@ -1,6 +1,4 @@
-streamlit as st
-pandas as pd
-numpy as np
-json
+streamlit
+pandas
+numpy
 joblib
-os
